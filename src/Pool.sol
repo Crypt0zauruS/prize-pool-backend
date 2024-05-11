@@ -2,8 +2,8 @@
 pragma solidity 0.8.24;
 
 /// @title Pool
-/// @notice Pool is a contract for collecting funds
 /// @dev All function calls are currently implemented without side effects
+/// @notice Pool is a contract for collecting funds
 /// @Author Crypt0zauruS
 
 import "@openzeppelin/contracts/access/Ownable.sol";
